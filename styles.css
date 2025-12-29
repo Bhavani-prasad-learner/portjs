@@ -378,6 +378,7 @@ footer {
     color: white;
     font-size: 2rem;
     transition: color 0.3s ease, transform 0.3s ease;
+    width: 45px;
 }
 
 .social-icons a:hover {
